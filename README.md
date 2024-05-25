@@ -1,5 +1,6 @@
-
 Hello Everyone, This is a Layer 7 DoS or DDoS tool
+
+(DoS or DDoS Is Ilegal !)
 
 Installation in Termux:
 
